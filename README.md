@@ -1,10 +1,9 @@
 <p align="center">
-  # Hi, I'm krishna keshav! 👋
+  Hi, I'm krishna keshav! 👋
 </p>
  
 <p align="center">
-  ## 🚀 About Me
-  Attending UF. I work @ <a href="https://www.garrettlab.com/">GarrettLab
+  Attending <a href="https://www.ufl.edu/">UF</a>. I work @ <a href="https://www.garrettlab.com/">GarrettLab
   <p align="center">
     <a href="https://www.linkedin.com/in/krishnakeshav">
       <img src="https://img.shields.io/badge/LinkedIn-blue??style=social&logo=linkedin" alt="krishnakeshav" />
@@ -12,10 +11,18 @@
      <a href="https://www.github.com/krishnakeshav">
       <img src="https://img.shields.io/badge/Github-lightgrey?style=social&logo=github" alt="krishnakeshav" />
     </a>
+    <p align="center">
+    <a href="mailto:krishnakeshav.pes@gmail.com">
+      <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="gmail" height="25">
+    </a>
+  </p>
   </p>
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnakeshav&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true&show_icons=true&custom_title=So%20far...&hide=contribs" alt="So far" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnakeshav&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true&show_icons=true&custom_title=So%20far...&hide=contribs" alt="So far" /></p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=krishnakeshav&theme=solarized-light">
+  </p>
 </p>    
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">

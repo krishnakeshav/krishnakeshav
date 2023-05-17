@@ -23,11 +23,6 @@
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=krishnakeshav&theme=solarized-light">
   </p>
-</p>    
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=krishnakeshav" alt="krishnakeshav" />
-</a>
 </p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnakeshav&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=donut&langs_count=10&custom_title=Experiences%20with&size_weight=0.3&count_weight=0.7&hide_progress=true" alt="stats card" /></p>
